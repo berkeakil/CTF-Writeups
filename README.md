@@ -18,5 +18,5 @@
   <b>.</b>
   <b>.</b>
   <b>.</b>
-  <pre><b>.</b><p><abbr title="Hackistanbul">HICTF'18</abbr></pre></pre>
+  <b>.</b><pre><pre><abbr title="Hackistanbul">HICTF'18</abbr></pre></pre>
 </pre>
