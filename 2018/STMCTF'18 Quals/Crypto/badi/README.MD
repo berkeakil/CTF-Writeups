@@ -1,4 +1,4 @@
-<pre><a href=badi.zip>badi.zip</a>
+File:<pre><a href=badi.zip>badi.zip</a>
 </pre>
 There was a page called "1.html" and a PNG image called "badi".First things first i used cat command for html document.
 <img src="cat_output.png" width="500">
