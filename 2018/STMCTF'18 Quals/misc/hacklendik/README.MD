@@ -1,4 +1,4 @@
-There was a attached pcap file in that challenge.Always the first thing when i investigating a pcap is to looking what objects are exported.And when i looked them there was a conversation and a list.
+There was an attached pcap file in that challenge.When i investigating a pcap file first thing first is always to looking what objects are exported.And when i looked them there was a conversation and a table file called list.
 <img src="exported.png">
 So i looked all the objects except "liste.ods" by "cat" command.Cause i already know that its a OpenDocument Spreadsheet file.So the cat won't work for that.
 <img src="cat_output.png" width=1000>
