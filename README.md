@@ -14,7 +14,7 @@
 <!-- <li><a href=""></a></li>-->
 <li><a href="https://github.com/berkeakil/CTF-Writeups/2018/HICTF'18">HICTF'18</a></li>
 <li><a href="https://github.com/berkeakil/CTF-Writeups/tree/master/2018/STMCTF'18%20Quals">STMCTF'18 Quals</a></li>
-<li><a href="https://github.com/berkeakil/CTF-Writeups/tree/master/2018/RITSEC-18"></a>RITSEC'18</li>
+        <li><a href="https://github.com/berkeakil/CTF-Writeups/tree/master/2018/RITSEC-18">RITSEC'18</a></li>
 </ul>
 </article>
       </div>
