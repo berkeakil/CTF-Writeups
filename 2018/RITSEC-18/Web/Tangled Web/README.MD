@@ -1,7 +1,7 @@
 <h1></h1>
------------------------------------------------------------
-Challenge Name : Tangled Web
------------------------------------------------------------
+-----------------------------------------------------------<br>
+Challenge Name : Tangled Web<br>
+-----------------------------------------------------------<br>
 
 After surfing in the providing site with curl i came up to that page called Fl4gggg1337.<br>
 <img src="Stars.png"><br>
